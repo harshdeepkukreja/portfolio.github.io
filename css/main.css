@@ -1,0 +1,330 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v105_433 {
+  width: 100%;
+  height: 3830px;
+  background: rgba(17, 106, 123, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v105_434 {
+  width: 732px;
+  height: 946px;
+  background: rgba(205, 194, 174, 1);
+  opacity: 1;
+  position: absolute;
+  top: -98px;
+  left: 760px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+
+.v106_440 {
+  width: 732px;
+  height: 788px;
+  background: rgba(205, 194, 174, 1);
+  opacity: 1;
+  position: absolute;
+  top: 910px;
+  left: 946px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+
+.v107_8 {
+  width: 100%;
+  height: 788px;
+  background: rgba(236, 229, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1753px;
+  left: 467px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+
+.v107_19 {
+  width: 939px;
+  height: 788px;
+  background: rgba(236, 229, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2604px;
+  left: -112px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+
+.v107_23 {
+  width: 100%;
+  height: 421px;
+  background: rgba(236, 229, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 3526px;
+  left: 0px;
+}
+
+.v105_436 {
+  width: 590px;
+  color: rgba(205, 194, 174, 1);
+  position: absolute;
+  top: 38px;
+  left: 28px;
+  font-family: Phosphate;
+  font-weight: Inline;
+  font-size: 60px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v105_437 {
+  width: 452px;
+  color: rgba(236, 229, 199, 1);
+  position: absolute;
+  top: 116px;
+  left: 28px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v105_438 {
+  width: 714px;
+  height: 866px;
+  background: url("../images/v105_438.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: -58px;
+  left: 796px;
+  border-top-left-radius: 66px;
+  border-top-right-radius: 66px;
+  border-bottom-left-radius: 66px;
+  border-bottom-right-radius: 66px;
+  overflow: hidden;
+}
+
+.v107_5 {
+  width: 808px;
+  height: 788px;
+  background: rgba(236, 229, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 910px;
+  left: -174px;
+  border-top-left-radius: 85px;
+  border-top-right-radius: 85px;
+  border-bottom-left-radius: 85px;
+  border-bottom-right-radius: 85px;
+  overflow: hidden;
+}
+
+.v107_3 {
+  width: 296px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 1263px;
+  left: 984px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v107_4 {
+  width: 329px;
+  height: 322px;
+  background: url("../images/v107_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 992px;
+  left: 89px;
+  border-top-left-radius: 185px;
+  border-top-right-radius: 185px;
+  border-bottom-left-radius: 185px;
+  border-bottom-right-radius: 185px;
+  overflow: hidden;
+}
+
+.v107_7 {
+  width: 557px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 1316px;
+  left: 14px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+  font-size: 30px;
+}
+
+.v107_10 {
+  width: 693px;
+  height: 788px;
+  background: rgba(205, 194, 174, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1753px;
+  left: -291px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+.name{
+  width: 557px;
+  color: rgb(17, 106, 123);
+  position: absolute;
+  top: 1316px;
+  left: 14px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+  font-size: 30px;
+  
+}
+
+.v107_20 {
+  width: 655px;
+  height: 788px;
+  background: rgba(205, 194, 174, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2604px;
+  left: 923px;
+  border-top-left-radius: 79px;
+  border-top-right-radius: 79px;
+  border-bottom-left-radius: 79px;
+  border-bottom-right-radius: 79px;
+  overflow: hidden;
+}
+
+.v107_11 {
+  width: 347px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 2034px;
+  left: 21px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: left;
+}
+
+.name {
+  color: #fff;
+}
+
+.v107_18 {
+  width: 374px;
+    color: rgba(17, 106, 123, 1);
+    position: relative;
+    top: 1870px;
+    left: 883px;
+    font-family: Post No Bills Colombo ExtraBold;
+    font-weight: Regular;
+    opacity: 1;
+    text-align: left;
+    font-size: 25px;
+}
+
+.v107_16 {
+  width: 450px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 1851px;
+  left: 500px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: left;
+  font-size: 32px;
+}
+
+.v107_24 {
+  width: 311px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 3626px;
+  left: 490px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v107_25 {
+  width: 459px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 2871px;
+  left: 948px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 85px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v107_26 {
+  width: 279px;
+  height: 282px;
+  background: url("../images/v107_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2640px;
+  left: 278px;
+  overflow: hidden;
+}
+
+.v107_28 {
+  width: 755px;
+  color: rgba(17, 106, 123, 1);
+  position: absolute;
+  top: 2942px;
+  left: 46px;
+  font-family: Post No Bills Colombo ExtraBold;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
